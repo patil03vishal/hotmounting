@@ -1,0 +1,136 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 976px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  font-size: 1.875rem;
+  text-decoration: underline !important;
+  margin: 22px -476px 0 476px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 10px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  margin: -478px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 329px;
+  height: 235px;
+  margin: -468px 0 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 0.875rem;
+  margin: 0 123px 60px 811px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 23px;
+    margin-left: 711px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 514px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-4 {
+    margin-left: 334px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 134px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 758px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  margin: 33px 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 400;
+  margin: 33px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 355px;
+  height: 220px;
+  margin: -462px -32px 0 auto;
+}
+
+.u-section-2 .u-text-3 {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 0.875rem;
+  text-align: left;
+  margin: 0 118px 0 817px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 241px auto 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    height: 219px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 1px;
+    margin-right: 18px;
+    margin-left: 717px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 515px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-3 {
+    margin-left: 335px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    height: 210px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 135px;
+  }
+}
